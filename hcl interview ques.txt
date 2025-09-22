@@ -1,0 +1,22 @@
+1.aws ec2 runs at 100% capacity ec2 how to reduce the load
+2.multi avail zone in RDS
+3.function of cross region in s3
+4.best security in lambda
+5.what is EBS-Optimized instance
+6.what is 'stateful' and 'stateless'  firewall
+7.what are the spot instances
+8.what is path based routing
+9.what is terraform dynamic block
+10.meta argument
+11.types of provisioners
+12.what is terraform workspaces 
+13.explain entrypoint and exitpoint in docker
+14.what does docker inspect command does.
+15.what is Kubernetes PVCs. PVC stands for PersistentVolumeClaim does
+16.what are k8 probes kindes of probes
+17.pipeline fails how to troubleshoot
+18.palindrome and prime number  bash script
+
+
+
+
